@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/eyes.png" width="220" alt="stacked televisions with eyes on their screens" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/eyes-light.png" />
+    <img src="./assets/eyes.png" width="220" alt="stacked televisions with eyes on their screens" />
+  </picture>
 </p>
 
 <h3 align="center">
